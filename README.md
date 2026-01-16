@@ -55,13 +55,17 @@ Across projects, the work addresses the following core themes:
 
 ## Videos
 
-Proactive Robotic Arm Manipulation:
-
-https://github.com/user-attachments/assets/838f844d-6e15-48ad-b61d-c069102cfbb3
+Proactive Robotic Arm Manipulation: https://drive.google.com/file/d/1E2RLXUaX75hkLrpaNafMU3IQMvNH6VgQ/view?usp=sharing
 
 
+Pepper Robot Display Mount Design: https://drive.google.com/file/d/1Mf4CGLPWxM0AFeaz9SJcF2s1BVNrxdFY/view?usp=sharing
 
-Pepper Robot Display Mount Integration:
+
+System Testing Videos on Pepper Robot: 
+
+- Demo 1: https://drive.google.com/file/d/1zeCtpKi1DvsWIB5wlLXxV-Gohs3X5vvq/view?usp=sharing
+
+- Demo 2: https://drive.google.com/file/d/1zeCtpKi1DvsWIB5wlLXxV-Gohs3X5vvq/view?usp=sharing
 
 
-System Testing Videos on Pepper Robot:
+                                      
