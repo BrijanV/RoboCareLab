@@ -65,7 +65,8 @@ System Testing Videos on Pepper Robot:
 
 - Demo 1: https://drive.google.com/file/d/1zeCtpKi1DvsWIB5wlLXxV-Gohs3X5vvq/view?usp=sharing
 
-- Demo 2: https://drive.google.com/file/d/1zeCtpKi1DvsWIB5wlLXxV-Gohs3X5vvq/view?usp=sharing
+- Demo 2: https://drive.google.com/file/d/1UGam7JENyA5aEUb_MpIWczm_QNvdymB2/view?usp=sharing
 
 
                                       
+
